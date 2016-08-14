@@ -1,2 +1,3 @@
-# HelloWorld
-just learn to use the github
+
+Free iOS developer right now.
+With many ideas to make true.
